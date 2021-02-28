@@ -25,6 +25,7 @@ The animation Api is just awesome.
 ## :camera_flash: Screenshots
 <!-- You can add more screenshots here if you like -->
 <img src="/results/screenshot_1.png" width="260">&emsp;<img src="/results/screenshot_2.png" width="260">
+![https://media.giphy.com/media/9yJsB1EFmxsrjeatW5/giphy.gif](https://media.giphy.com/media/9yJsB1EFmxsrjeatW5/giphy.gif)
 
 ## License
 ```
