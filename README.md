@@ -6,10 +6,10 @@
 
 
 ## :scroll: Description
-Clicking on the like button opens the detail view with a poor shared element transition.
-Clicking on the image exits the shared element.
-Cards can be swiped away in any direction.
-If swiped only a little bit, they animate back in position.
+- Clicking on the like button opens the detail view with a poor shared element transition.
+- Clicking on the image exits the detail view.
+- Cards can be swiped away in any direction.
+- If swiped only a little bit, they animate back in position.
 
 ## :bulb: Motivation and Context
 After showing my friend my implementation of tinder cards.
