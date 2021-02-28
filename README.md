@@ -1,8 +1,8 @@
 # Put title of your app here
 
-<!--- Replace <AdrianoCelentano> with your Github Username and <PuppyCards> with the name of your repository. -->
+<!--- Replace <OWNER> with your Github Username and <REPOSITORY> with the name of your repository. -->
 <!--- You can find both of these in the url bar when you open your repository in github. -->
-![Workflow result](https://github.com/<OWNER>/<REPOSITORY>/workflows/Check/badge.svg)
+![Workflow result](https://github.com/AdrianoCelentano/PuppyCards/workflows/Check/badge.svg)
 
 
 ## :scroll: Description
@@ -12,10 +12,10 @@
 - If swiped only a little bit, they animate back in position.
 
 ## :bulb: Motivation and Context
-After showing my friend my implementation of tinder cards.
+After showing a friend my implementation of tinder cards.
 We came up with the idea of making it for dogs.
 That's why i came up with this awkward compromise for this challenge.
-Of course for puppies ever swipe counts as a like.
+Of course for puppies every swipe counts as a like!
 Im quiet sure i failed the topic, just like back in school.
 That's fine i had a lot of fun building it.
 The animation Api is just awesome.
